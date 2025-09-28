@@ -1,0 +1,886 @@
+{
+  "participant_id": "8882edab2daf45ee669f8a3f4f4269e9b61417750b4f75b33ce5021e1d815039",
+  "utterances": [
+    {
+      "speaker": "counsellor",
+      "volley_number": 2098,
+      "utterance_number": 5755,
+      "text": "Hi there!",
+      "auto_misc_label": "Other",
+      "auto_misc_explanation": "The counsellor's utterance is a simple greeting, which falls under the category of pleasantries or fillers.",
+      "word_count": 2
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2098,
+      "utterance_number": 5756,
+      "text": "I'm glad you've joined me today.",
+      "auto_misc_label": "Other",
+      "auto_misc_explanation": "The counsellor's final utterance is a greeting and expression of pleasure at the client's presence, which falls under the category of pleasantries or fillers.",
+      "word_count": 6
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2098,
+      "utterance_number": 5757,
+      "text": "How are you feeling as we begin this session?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at understanding the client's current emotional state, which is consistent with gathering information in Motivational Interviewing.",
+      "word_count": 9
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2099,
+      "utterance_number": 5758,
+      "text": "FEELING FINE",
+      "auto_misc_label": "N",
+      "auto_misc_explanation": "The client's response is a neutral statement about their current emotional state, without any indication of change or sustain talk related to smoking cessation.",
+      "word_count": 2
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2100,
+      "utterance_number": 5759,
+      "text": "That's good to hear.",
+      "auto_misc_label": "Other",
+      "auto_misc_explanation": "The counsellor's final utterance is a simple acknowledgment of the client's statement, which aligns with the 'Facilitate' category under 'Other'. It does not fit into the categories of MI-Consistent, MI-Inconsistent, or Reflection or Question.",
+      "word_count": 4
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2100,
+      "utterance_number": 5760,
+      "text": "I'm glad you're feeling okay.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is a supportive statement, acknowledging and affirming the client's current state of feeling fine. This aligns with the MI-consistent behavior of providing support.",
+      "word_count": 5
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2100,
+      "utterance_number": 5761,
+      "text": "We can take things at your pace today.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is supportive, as it acknowledges the client's feelings and emphasizes that the session will proceed at the client's pace, which aligns with MI principles of supporting the client's autonomy.",
+      "word_count": 8
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2100,
+      "utterance_number": 5762,
+      "text": "Is there anything specific you'd like to discuss, or would you prefer to just start with how you're feeling about smoking lately?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at gathering information about the client's preferences for the session and their feelings about smoking. This falls under the category of asking a question to understand the client's perspective.",
+      "word_count": 22
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2101,
+      "utterance_number": 5763,
+      "text": "WE CAN DISCUSS SMOKING.",
+      "auto_misc_label": "N",
+      "auto_misc_explanation": "The client's final utterance is neutral as it simply agrees to discuss smoking without expressing any desire to change, sustain, or provide any specific information about their stance on smoking.",
+      "word_count": 4
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2101,
+      "utterance_number": 5764,
+      "text": "I GREATLY DESIRE TO QUIT BUT DO NOT KNOW HOW",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client expresses a strong desire to quit smoking, which is a clear indication of change talk as it shows a desire to change the current behavior.",
+      "word_count": 10
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2102,
+      "utterance_number": 5765,
+      "text": "It's understandable to feel that way – wanting to quit but not being sure of the path forward.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's expressed feelings about wanting to quit smoking but not knowing how. It mirrors the client's sentiment and acknowledges their current state, which is consistent with the reflection category in Motivational Interviewing.",
+      "word_count": 18
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2102,
+      "utterance_number": 5766,
+      "text": "It sounds like you have a strong desire to make a change.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It reflects back the client's expressed desire to quit smoking and acknowledges the uncertainty about how to proceed, which is consistent with Motivational Interviewing techniques.",
+      "word_count": 12
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2102,
+      "utterance_number": 5767,
+      "text": "Can you tell me more about what you're experiencing when you think about quitting smoking?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at gathering more information about the client's experience and feelings regarding quitting smoking. This is consistent with the MI approach of exploring the client's perspective.",
+      "word_count": 15
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2103,
+      "utterance_number": 5768,
+      "text": "HOW I WILL FIGHT THE URGE,",
+      "auto_misc_label": "S",
+      "auto_misc_explanation": "The client's final utterance, \"HOW I WILL FIGHT THE URGE,\" highlights a concern about the challenges of quitting smoking, specifically the difficulty in resisting the urge to smoke. This reflects a focus on the difficulties or challenges of change, which is characteristic of sustain talk.",
+      "word_count": 6
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2103,
+      "utterance_number": 5769,
+      "text": "ALSO CONSIDER WEIGHT GAIN",
+      "auto_misc_label": "S",
+      "auto_misc_explanation": "The client's final utterance focuses on the challenges and concerns associated with quitting smoking, specifically the urge to smoke and potential weight gain. This reflects sustain talk as it highlights difficulties in making the change.",
+      "word_count": 4
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2104,
+      "utterance_number": 5770,
+      "text": "It sounds like there are a couple of concerns on your mind: dealing with the cravings and also the fear of gaining weight.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection, as it mirrors the client's expressed concerns about cravings and weight gain when considering quitting smoking.",
+      "word_count": 23
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2104,
+      "utterance_number": 5771,
+      "text": "Balancing these worries with your desire to quit can be challenging.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. They are reflecting back the client's concerns about cravings and weight gain, acknowledging the challenge of balancing these worries with the desire to quit smoking.",
+      "word_count": 11
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2104,
+      "utterance_number": 5772,
+      "text": "How do these aspects affect your motivation to stop smoking?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at understanding how the client's concerns about cravings and weight gain impact their motivation to quit smoking. This is a typical example of a question used in Motivational Interviewing to explore the client's thoughts and feelings.",
+      "word_count": 10
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2105,
+      "utterance_number": 5773,
+      "text": "IT MAKES IT SEEM VERY DAUNTING",
+      "auto_misc_label": "S",
+      "auto_misc_explanation": "The client's final utterance, 'IT MAKES IT SEEM VERY DAUNTING,' highlights the challenges and difficulties they perceive in quitting smoking, such as dealing with cravings and potential weight gain. This reflects sustain talk as it emphasizes the obstacles to change.",
+      "word_count": 6
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2106,
+      "utterance_number": 5774,
+      "text": "It seems like the thought of facing these challenges all at once makes quitting feel overwhelming.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection, as it mirrors the client's expressed feeling of being overwhelmed by the challenges of quitting smoking.",
+      "word_count": 16
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2106,
+      "utterance_number": 5775,
+      "text": "It's understandable to feel that way when these concerns are significant for you.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection, as it mirrors the client's feelings of being overwhelmed by the challenges of quitting smoking. This is consistent with the MI technique of reflecting the client's emotions and experiences back to them.",
+      "word_count": 13
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2106,
+      "utterance_number": 5776,
+      "text": "What keeps you motivated to think about quitting despite these daunting feelings?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at exploring the client's motivation to quit smoking despite feeling overwhelmed. This is consistent with the MI technique of asking open-ended questions to elicit more information and encourage the client to reflect on their motivations.",
+      "word_count": 12
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2107,
+      "utterance_number": 5777,
+      "text": "MY HEALTH",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance, 'MY HEALTH', indicates a recognition of the importance of their health, which is a potential benefit of making a change. This reflects a motivation to quit smoking for health reasons, aligning with change talk.",
+      "word_count": 2
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2108,
+      "utterance_number": 5778,
+      "text": "Your health is really important to you, and that concern is a strong motivator in considering quitting.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is an affirmation, as it acknowledges and reinforces the client's motivation to quit smoking due to health concerns, which is consistent with MI principles.",
+      "word_count": 17
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2108,
+      "utterance_number": 5779,
+      "text": "What are some health changes you hope to see by making this change?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at exploring the client's motivations and goals related to their health, which is consistent with the MI technique of eliciting the client's own motivations and reasons for change.",
+      "word_count": 13
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2109,
+      "utterance_number": 5780,
+      "text": "AFFECTS OF ASTHMA WOULD SUBSIDE",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client is recognizing a potential benefit of quitting smoking, which is the improvement in their asthma condition. This indicates a positive outlook towards the change and aligns with the category of Change Talk.",
+      "word_count": 5
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2109,
+      "utterance_number": 5781,
+      "text": "AND BETTER BREATHING OVERALL",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client is identifying potential benefits of quitting smoking, specifically mentioning that their asthma symptoms would improve and they would experience better breathing. This indicates a recognition of positive outcomes from making the change, which is characteristic of change talk.",
+      "word_count": 4
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2110,
+      "utterance_number": 5782,
+      "text": "Improving your asthma and having better breathing could make a meaningful difference in your daily life.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance reflects back the client's expressed desire for improved asthma and better breathing, which is a reflection of the client's previous statement.",
+      "word_count": 16
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2110,
+      "utterance_number": 5783,
+      "text": "It's great to hear that you have clear reasons for wanting to quit.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is an affirmation, which is MI-consistent. It acknowledges the client's reasons for wanting to quit and supports their motivation by highlighting the positive impact of their goals.",
+      "word_count": 13
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2110,
+      "utterance_number": 5784,
+      "text": "Do you notice any specific situations or triggers that impact your smoking or your ability to breathe well?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at exploring the client's awareness of triggers related to smoking and breathing issues. This is consistent with the RQ category, specifically a Question (Q), as it seeks to gather more information from the client.",
+      "word_count": 18
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2111,
+      "utterance_number": 5785,
+      "text": "SMOKING HAS BECOME A GO TO WHEN STRESSED",
+      "auto_misc_label": "S",
+      "auto_misc_explanation": "The client's final utterance highlights a challenge or trigger related to smoking, which is stress. This indicates a focus on the difficulty of change, as smoking is used as a coping mechanism for stress, aligning with sustain talk.",
+      "word_count": 8
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2111,
+      "utterance_number": 5786,
+      "text": "AND SO INGRAINED IN EVERYDAY LIFE",
+      "auto_misc_label": "S",
+      "auto_misc_explanation": "The client's final utterance highlights the difficulty of change by acknowledging that smoking is a deeply ingrained habit and a coping mechanism for stress. This reflects sustain talk as it emphasizes the challenges associated with quitting smoking.",
+      "word_count": 6
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2112,
+      "utterance_number": 5787,
+      "text": "Smoking has become a way you cope with stress, and it feels like it's intertwined with daily routines.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's statement about smoking being a coping mechanism for stress and part of daily life. This is consistent with the MI technique of reflecting back the client's thoughts and feelings to show understanding and encourage further exploration.",
+      "word_count": 18
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2112,
+      "utterance_number": 5788,
+      "text": "It's tough when something becomes such a regular part of life.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection, as it mirrors the client's statement about smoking being a coping mechanism for stress and a part of daily life. This is consistent with the MI technique of reflecting back the client's thoughts and feelings to demonstrate understanding and empathy.",
+      "word_count": 11
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2112,
+      "utterance_number": 5789,
+      "text": "What helps you manage stress or unwind in those moments when you don't smoke?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at exploring alternative stress management strategies that the client might already be using. This is consistent with Motivational Interviewing as it seeks to elicit the client's own ideas and solutions.",
+      "word_count": 14
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2113,
+      "utterance_number": 5790,
+      "text": "EXERCISE",
+      "auto_misc_label": "N",
+      "auto_misc_explanation": "The client's final utterance, \"EXERCISE,\" is a neutral statement. It does not express a desire to change, recognize the downsides of smoking, or highlight the benefits of quitting. Instead, it simply answers the counselor's question about what helps manage stress without smoking.",
+      "word_count": 1
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2114,
+      "utterance_number": 5791,
+      "text": "Exercise seems to be a helpful tool for you in managing stress, and it also contributes positively to your health.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection, as it restates and acknowledges the client's use of exercise as a stress management tool and its positive impact on health.",
+      "word_count": 20
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2114,
+      "utterance_number": 5792,
+      "text": "How does it feel when you engage in exercise, particularly in relation to your breathing and overall well-being?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at exploring the client's feelings and experiences related to exercise, breathing, and well-being. This is consistent with the RQ category as it seeks to gather more information and understand the client's perspective.",
+      "word_count": 18
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2115,
+      "utterance_number": 5793,
+      "text": "IF I EXERT MYSELF TO MUCH IT HAS NEGATUVE IMPACT ON BREATHING",
+      "auto_misc_label": "S",
+      "auto_misc_explanation": "The client is highlighting a difficulty associated with exercise, which is a potential alternative to smoking for stress relief. This indicates a focus on the challenges of change, as the client is pointing out a negative consequence of exerting themselves, which can be seen as a barrier to using exercise as a replacement for smoking.",
+      "word_count": 12
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2116,
+      "utterance_number": 5794,
+      "text": "It sounds like exercise is beneficial, but there are challenges when your breathing is affected if you push too hard.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It mirrors the client's concern about the negative impact of exertion on breathing, acknowledging both the benefits and challenges of exercise for the client.",
+      "word_count": 20
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2116,
+      "utterance_number": 5795,
+      "text": "Balancing exercise with your asthma and the urge to smoke can be difficult.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It summarizes the client's experience with exercise, acknowledging both its benefits and the challenges related to breathing and smoking urges.",
+      "word_count": 13
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2116,
+      "utterance_number": 5796,
+      "text": "What would it mean for you if quitting smoking could lead to enjoying activities like exercise without those breathing limitations?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question that aims to explore the client's thoughts and feelings about the potential benefits of quitting smoking, specifically in relation to exercise and breathing. This is consistent with the MI approach of eliciting the client's own motivations and desires for change.",
+      "word_count": 20
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2117,
+      "utterance_number": 5797,
+      "text": "IT WOULD MEAN A GREAT DEAL TO QUIT SMOKING AND ENJOY REGULAR ACTIVITIES WITHOUT",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance expresses a desire to quit smoking in order to enjoy regular activities without breathing limitations, which aligns with recognizing the benefits of making a change.",
+      "word_count": 14
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2118,
+      "utterance_number": 5798,
+      "text": "The idea of quitting and enjoying regular activities without those breathing limitations could be really life-changing for you.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection, as it mirrors the client's expressed desire to quit smoking and enjoy activities without breathing limitations, emphasizing the potential positive impact on the client's life.",
+      "word_count": 18
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2118,
+      "utterance_number": 5799,
+      "text": "It seems like there's a strong vision for the benefits you desire.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It reflects back the client's expressed desire to quit smoking and enjoy activities without breathing limitations, acknowledging the significance of this change for the client.",
+      "word_count": 12
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2118,
+      "utterance_number": 5800,
+      "text": "Is there anything else you'd like to explore or discuss regarding your smoking and your health?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at eliciting further information or discussion from the client about their smoking and health. This is consistent with the RQ category, specifically as a question (Q).",
+      "word_count": 16
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2119,
+      "utterance_number": 5801,
+      "text": "NOT AT THIS TIME",
+      "auto_misc_label": "N",
+      "auto_misc_explanation": "The client's final utterance, \"NOT AT THIS TIME,\" is a neutral statement indicating that they do not wish to discuss anything further at the moment. It does not express a desire to change, sustain the current behavior, or provide any new information about their stance on smoking cessation.",
+      "word_count": 4
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2120,
+      "utterance_number": 5802,
+      "text": "You've shared some really important insights today about your health, your motivations, and the challenges you face.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is an affirmation, as it acknowledges and validates the client's insights and contributions to the session, which is consistent with Motivational Interviewing principles.",
+      "word_count": 17
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2120,
+      "utterance_number": 5803,
+      "text": "We talked about how smoking is part of your routine but also how quitting could greatly improve your asthma and overall well-being.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection, as it summarizes and reflects back the client's insights and motivations discussed during the session, particularly focusing on the impact of smoking on the client's health and well-being.",
+      "word_count": 22
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2120,
+      "utterance_number": 5804,
+      "text": "If you'd like, we can begin to explore some small steps or plans to support your goal of quitting smoking.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance offers to explore small steps or plans to support the client's goal of quitting smoking, which is a suggestion or possible action. However, it is phrased as an offer, respecting the client's autonomy, which aligns with the MI-consistent behavior of advising with permission.",
+      "word_count": 20
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2120,
+      "utterance_number": 5805,
+      "text": "Would it be alright with you if we talked about that?",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is asking for permission to discuss potential steps or plans to support the client's goal of quitting smoking. This aligns with the MI-consistent behavior of advising with permission, as it respects the client's autonomy and seeks their consent before proceeding.",
+      "word_count": 11
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2121,
+      "utterance_number": 5806,
+      "text": "YES",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance, 'YES', indicates a willingness to engage in a discussion about planning to quit smoking, which demonstrates a commitment to change.",
+      "word_count": 1
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2122,
+      "utterance_number": 5807,
+      "text": "Great!",
+      "auto_misc_label": "Other",
+      "auto_misc_explanation": "The counsellor's final utterance, 'Great!', is a simple facilitation that acknowledges the client's agreement to proceed with the discussion. It does not fit into the categories of MI-Consistent, MI-Inconsistent, or Reflection or Question, as it is merely an acknowledgment.",
+      "word_count": 1
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2122,
+      "utterance_number": 5808,
+      "text": "Thank you for being open to exploring this further.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is an affirmation, acknowledging the client's openness to explore quitting smoking further. This is consistent with Motivational Interviewing as it supports and encourages the client's willingness to engage in the process.",
+      "word_count": 9
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2122,
+      "utterance_number": 5809,
+      "text": "Let's think about one small change or step that feels manageable for you in working toward your goal to quit smoking.",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at eliciting the client's ideas for manageable steps towards quitting smoking. This is consistent with Motivational Interviewing as it encourages client autonomy and involvement in the change process.",
+      "word_count": 21
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2122,
+      "utterance_number": 5810,
+      "text": "Is there something small you might be willing to try, perhaps relating to those moments when you feel stressed?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at eliciting the client's ideas about manageable steps they might take towards quitting smoking. This is consistent with Motivational Interviewing techniques, which often involve asking open-ended questions to facilitate client exploration and decision-making.",
+      "word_count": 19
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2123,
+      "utterance_number": 5811,
+      "text": "STARTING TO CUT BACK",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance, \"STARTING TO CUT BACK,\" indicates a willingness to take a small step towards quitting smoking, which demonstrates a commitment to change.",
+      "word_count": 4
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2123,
+      "utterance_number": 5812,
+      "text": "HOW MANY SMOKES A DAY",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance indicates a willingness to make a small change by cutting back on the number of cigarettes smoked per day. This demonstrates a commitment to change, which is a form of change talk.",
+      "word_count": 5
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2124,
+      "utterance_number": 5813,
+      "text": "Cutting back on the number of cigarettes you smoke each day sounds like a focused and achievable first step.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's suggestion to cut back on the number of cigarettes smoked each day. It acknowledges and reinforces the client's proposed action as a positive and manageable step.",
+      "word_count": 19
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2124,
+      "utterance_number": 5814,
+      "text": "It allows you to gradually adjust while aiming for your ultimate goal.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It reflects back the client's idea of cutting back on the number of cigarettes smoked each day, acknowledging it as a focused and achievable first step.",
+      "word_count": 12
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2124,
+      "utterance_number": 5815,
+      "text": "What amount feels realistic for you to reduce, and how do you feel about implementing this change?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at gathering more information about the client's plan to cut back on smoking. It seeks to understand the client's perspective on the amount they feel comfortable reducing and their feelings about making this change.",
+      "word_count": 17
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2125,
+      "utterance_number": 5816,
+      "text": "I WOULD LIKE TO CUT BACK A FEW CIGERETTES A WEEK UNTIL I HAVE SIGNIFICATLY REDUCED ENOUGH TO THEN GO COLD TURKEY",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client is expressing a clear plan and commitment to change by stating their intention to gradually reduce cigarette consumption with the ultimate goal of quitting entirely. This demonstrates a proactive approach towards smoking cessation.",
+      "word_count": 22
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2126,
+      "utterance_number": 5817,
+      "text": "That sounds like a thoughtful and structured approach, gradually cutting back a few cigarettes each week until you're ready to quit completely.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's plan to gradually reduce cigarette consumption before quitting completely. It mirrors the client's strategy and acknowledges their approach.",
+      "word_count": 22
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2126,
+      "utterance_number": 5818,
+      "text": "You have a clear plan in mind that aligns with your comfort and readiness.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. They are reflecting back the client's plan to gradually cut back on cigarettes, acknowledging the client's structured approach and readiness.",
+      "word_count": 14
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2126,
+      "utterance_number": 5819,
+      "text": "What kind of support or strategies might help you stay on track with this plan as you begin to cut back?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at eliciting more information from the client about the support or strategies they might need to stay on track with their plan. This is consistent with the MI technique of asking open-ended questions to facilitate client exploration and planning.",
+      "word_count": 21
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2127,
+      "utterance_number": 5820,
+      "text": "I WOULD NEED TO START TRACKING WEEKLY ACTIVITIES TO SEE THAT I AM ACHIEVING GOALS",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance indicates a proactive approach to change by expressing a need to track weekly activities to ensure they are achieving their goals. This demonstrates a commitment to the change process and aligns with the client's plan to reduce smoking gradually.",
+      "word_count": 15
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2128,
+      "utterance_number": 5821,
+      "text": "Tracking your weekly progress could really help you stay focused and see the tangible steps you're taking.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's previous statement about tracking weekly activities to achieve their goals. It mirrors the client's idea and reinforces their plan, which is consistent with the MI technique of reflection.",
+      "word_count": 17
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2128,
+      "utterance_number": 5822,
+      "text": "It's a proactive way to measure your success and keep that motivation going.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's plan to track weekly activities to achieve their goals. It mirrors the client's idea and reinforces the positive aspects of their approach, which is consistent with the reflection technique in Motivational Interviewing.",
+      "word_count": 13
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2128,
+      "utterance_number": 5823,
+      "text": "How do you feel about setting up a way to track these activities, and is there someone or something that could assist you in keeping this routine consistent?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at exploring the client's feelings about setting up a tracking system and identifying potential support, which is consistent with gathering information and understanding the client's perspective.",
+      "word_count": 28
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2129,
+      "utterance_number": 5824,
+      "text": "I WOULD HAVE TO DEPEND SOLELY ON MYSELF TO TRACK",
+      "auto_misc_label": "N",
+      "auto_misc_explanation": "The client's final utterance, \"I WOULD HAVE TO DEPEND SOLELY ON MYSELF TO TRACK,\" is a neutral statement. It describes the client's current situation regarding tracking their progress without expressing a strong stance towards change or maintaining the status quo.",
+      "word_count": 10
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2129,
+      "utterance_number": 5825,
+      "text": "FAMILY COULD HELP ME STAY MOTIVATED",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client acknowledges the need for self-reliance in tracking their progress but also recognizes the potential support from family to maintain motivation. This indicates a recognition of the challenges and a plan to overcome them, which aligns with change talk.",
+      "word_count": 6
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2130,
+      "utterance_number": 5826,
+      "text": "Relying on yourself to track progress shows your self-reliance and commitment.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's statement about relying on themselves to track progress. It acknowledges the client's self-reliance and commitment, which is consistent with the MI technique of reflecting back the client's thoughts and feelings.",
+      "word_count": 11
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2130,
+      "utterance_number": 5827,
+      "text": "And having your family as a source of motivation can provide valuable encouragement and support throughout your journey.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance affirms the client's self-reliance and commitment, as well as supports the idea of family motivation, which aligns with MI-consistent behaviors of affirming and supporting the client's strengths and resources.",
+      "word_count": 18
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2130,
+      "utterance_number": 5828,
+      "text": "How do you plan to include them in your process, and what would make you feel most supported as you work toward your goal?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at eliciting more information from the client about how they plan to involve their family in their process and what kind of support they would find most helpful. This is consistent with the 'Question' category in Motivational Interviewing, as it seeks to understand the client's perspective and plan.",
+      "word_count": 24
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2131,
+      "utterance_number": 5829,
+      "text": "I WOULD LET THEM KNOW ABOUT MY EFFORTS",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance indicates a plan to involve their family in their efforts to track progress, which suggests a commitment to change and utilizing available support systems. This reflects a proactive approach to achieving their goals.",
+      "word_count": 8
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2132,
+      "utterance_number": 5830,
+      "text": "Sharing your efforts with your family invites them into your journey and can help them provide the encouragement you need.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's statement about involving their family in their efforts. It mirrors the client's intention to share their progress with their family, reinforcing the client's plan and acknowledging the potential support from family.",
+      "word_count": 20
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2132,
+      "utterance_number": 5831,
+      "text": "Their support can serve as a powerful motivator.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's plan to involve their family by sharing their efforts. It acknowledges the client's strategy and reinforces the potential positive impact of family support, which aligns with the principles of Motivational Interviewing.",
+      "word_count": 8
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2132,
+      "utterance_number": 5832,
+      "text": "As you get going with reducing smoking, how might you reward yourself for hitting those milestones you plan to achieve?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at eliciting the client's thoughts on rewarding themselves for achieving milestones. This is consistent with Motivational Interviewing techniques, which often use questions to explore the client's ideas and plans.",
+      "word_count": 20
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2133,
+      "utterance_number": 5833,
+      "text": "BY SAVING MONEY",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance, 'BY SAVING MONEY,' suggests a recognition of a potential benefit of reducing smoking, which is saving money. This aligns with change talk as it identifies a positive outcome of making a change.",
+      "word_count": 3
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2133,
+      "utterance_number": 5834,
+      "text": "THAT I HAVE SAVED ON A GIFT FOR MYSELF",
+      "auto_misc_label": "C",
+      "auto_misc_explanation": "The client's final utterance focuses on a positive aspect of reducing smoking, which is saving money, and using that saved money as a reward. This indicates a recognition of the benefits of change and a plan to reinforce the behavior change, which aligns with Change Talk.",
+      "word_count": 9
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2134,
+      "utterance_number": 5835,
+      "text": "Treating yourself to a gift with the money saved from smoking less is a wonderful way to reward your progress.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's plan to reward themselves by saving money for a gift. It mirrors the client's idea and reinforces their motivation and strategy.",
+      "word_count": 20
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2134,
+      "utterance_number": 5836,
+      "text": "It gives you something tangible to look forward to and reinforces the positive steps you're taking.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's plan to reward themselves with a gift using the money saved from smoking less. It mirrors the client's idea and reinforces the positive behavior change.",
+      "word_count": 16
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2134,
+      "utterance_number": 5837,
+      "text": "You seem to have a solid plan and motivation.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is an affirmation, which is consistent with Motivational Interviewing. It acknowledges the client's solid plan and motivation, reinforcing their strengths and efforts.",
+      "word_count": 9
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2134,
+      "utterance_number": 5838,
+      "text": "Is there anything else you’d like to explore or prepare for before you begin this journey?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question aimed at eliciting further information from the client about their readiness or any additional preparations they might want to consider before starting their journey. This is consistent with the RQ category, specifically a Question (Q).",
+      "word_count": 16
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2135,
+      "utterance_number": 5839,
+      "text": "NO",
+      "auto_misc_label": "N",
+      "auto_misc_explanation": "The client's final utterance, \"NO,\" is a neutral response. It does not express any desire to change, commitment, or recognition of the downsides of smoking, nor does it highlight any difficulties or positive aspects of smoking. It simply indicates that the client does not have anything else to explore or prepare for at the moment.",
+      "word_count": 1
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5840,
+      "text": "Thank you for sharing your thoughts and feelings today.",
+      "auto_misc_label": "MICO",
+      "auto_misc_explanation": "The counsellor's final utterance is a supportive statement that acknowledges the client's participation and willingness to share. It aligns with the MI-consistent behavior of providing support and encouragement to the client.",
+      "word_count": 9
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5841,
+      "text": "Let's take a moment to go over what we've discussed.",
+      "auto_misc_label": "Other",
+      "auto_misc_explanation": "The counsellor's final utterance is a summary of the session, which is not directly a reflection or question, nor does it fit the MI-consistent or MI-inconsistent categories. It is more about structuring the session by reviewing what has been discussed.",
+      "word_count": 10
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5842,
+      "text": "You mentioned a strong desire to quit smoking, mainly motivated by the hope of improving your health, especially your asthma and overall breathing.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection of the client's earlier statements about their motivation to quit smoking for health reasons, particularly concerning asthma and breathing. This is consistent with the MI technique of reflecting back the client's expressed motivations and goals.",
+      "word_count": 23
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5843,
+      "text": "We've talked about how smoking has become a coping mechanism for stress and a part of your daily routine.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection, as it summarizes and reflects back the client's motivations and the role smoking plays in their life, based on what the client has shared during the session.",
+      "word_count": 19
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5844,
+      "text": "Exercise is something that helps manage stress for you, although it can be challenging due to your breathing.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It summarizes the client's motivations and challenges related to quitting smoking, reflecting back the content and meaning previously offered by the client.",
+      "word_count": 18
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5845,
+      "text": "You decided that cutting back a few cigarettes each week until you reach a point where you're ready to quit entirely could be a good strategy.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It summarizes and reflects back the client's motivations, challenges, and strategies discussed during the session, which is consistent with the MI technique of reflecting to ensure understanding and validation of the client's experiences.",
+      "word_count": 26
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5846,
+      "text": "Tracking your progress weekly is important to you, and involving your family for motivation shows how much you value their support.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It summarizes the client's motivations, challenges, and plans discussed during the session, reflecting back the content and meaning previously offered by the client.",
+      "word_count": 21
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5847,
+      "text": "Rewarding yourself with a gift from the money you save gives you something to look forward to as well.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a reflection. It summarizes the client's motivations, challenges, and plans, reflecting back the content and meaning of what the client has shared during the session.",
+      "word_count": 19
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5848,
+      "text": "It's clear that you've put a lot of thought into this, and I'm here to support you throughout your journey.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a summary of the client's motivations, strategies, and plans, which reflects back the content and meaning previously offered by the client. This is consistent with the Reflection category in Motivational Interviewing.",
+      "word_count": 20
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5849,
+      "text": "Thank you for this conversation, and please feel free to reach out anytime you need to talk again.",
+      "auto_misc_label": "R",
+      "auto_misc_explanation": "The counsellor's final utterance is a summary of the client's motivations, plans, and strategies discussed during the session. It reflects back the client's thoughts and feelings, which is consistent with the Reflection category in Motivational Interviewing.",
+      "word_count": 18
+    },
+    {
+      "speaker": "counsellor",
+      "volley_number": 2136,
+      "utterance_number": 5850,
+      "text": "Would you like to continue the conversation?",
+      "auto_misc_label": "Q",
+      "auto_misc_explanation": "The counsellor's final utterance is a question asking if the client would like to continue the conversation, which is aimed at gathering information or understanding the client's needs.",
+      "word_count": 7
+    },
+    {
+      "speaker": "client",
+      "volley_number": 2137,
+      "utterance_number": 5851,
+      "text": "No",
+      "auto_misc_label": "N",
+      "auto_misc_explanation": "The client's final utterance, \"No,\" is a neutral response to the counselor's question about continuing the conversation. It does not express any desire or commitment to change, nor does it highlight any difficulties or benefits related to smoking cessation.",
+      "word_count": 1
+    }
+  ],
+  "stats": {
+    "total_utterances": 97,
+    "counsellor_utterances": 70,
+    "client_utterances": 27,
+    "counsellor_words": 1078,
+    "client_words": 173,
+    "session_duration_minutes": 9.623076923076923
+  }
+}
